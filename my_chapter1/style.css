@@ -47,10 +47,10 @@ body {
 }
 
 
-.IntroText {
+/*.IntroText {
 	font-size: 1.8rem;
 	font-style: italic;
-}
+}*/
 
 .MethodWrapper li {
 	padding: .4rem 0;
@@ -90,7 +90,7 @@ body {
 		padding: .5rem;
 		font-size: 2.5rem;
 		text-align: left;
-		position: relative;
+		/*position: relative;*/
 	}
 
 	.Ingredients {
